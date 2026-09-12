@@ -34,6 +34,7 @@ An AI virtual influencer is a computer-generated persona used on social media, i
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Image and text-to-video with realistic motion.
 - [Pika](https://pika.art) - Image-to-video and short clip generation.
 - [Hedra](https://www.hedra.com) - Talking-character video from a single portrait.
+- [NanoAvatar](https://github.com/wpydcr/NanoAvatar) - Audio-driven talking avatars on older Android phones, with lifelike, smooth video, fast responses, and no cloud GPU.
 - [OpenAI Sora](https://openai.com/sora) - Text-to-video generation with coherent scenes.
 - [Google Veo](https://deepmind.google/technologies/veo/) - High-fidelity text and image-to-video.
 - [Higgsfield](https://higgsfield.ai) - Character-driven video with camera-motion control.
